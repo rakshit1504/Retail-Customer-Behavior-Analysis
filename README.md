@@ -148,7 +148,7 @@ Retail-Customer-Behavior-Analytics
 ├── notebooks/
 │   └── customer_behavior_analysis.ipynb
 │
-├── sql/
+├── sql/ 
 │   └── customer_analysis.sql
 │
 ├── dashboard/
@@ -160,10 +160,8 @@ Retail-Customer-Behavior-Analytics
 │
 ├── screenshots/
 │
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── README.md
+
 ```
 
 ---
@@ -177,7 +175,6 @@ The analysis revealed several useful business observations, including:
 - Discounts are frequently used even by high-value customers.
 - Certain product categories consistently generate higher sales.
 - Customer satisfaction remains strong across most product categories.
-- Seasonal purchasing patterns can support inventory and promotional planning.
 - Repeat customers exhibit stronger long-term engagement.
 
 ---
@@ -212,7 +209,6 @@ Potential improvements include:
 
 **Rakshit Bansal**
 
-B.Tech Computer Science & Engineering
 
 GitHub: 
 LinkedIn:
