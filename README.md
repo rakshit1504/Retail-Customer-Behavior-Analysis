@@ -137,34 +137,6 @@ The Power BI dashboard provides an interactive overview of customer purchasing b
 
 ---
 
-## Repository Structure
-
-```
-Retail-Customer-Behavior-Analytics
-│
-├── dataset/
-│   └── customer_shopping_behavior.csv
-│
-├── notebooks/
-│   └── customer_behavior_analysis.ipynb
-│
-├── sql/ 
-│   └── customer_analysis.sql
-│
-├── dashboard/
-│   ├── dashboard.pbix
-│   └── dashboard.png
-│
-├── report/
-│   └── Retail_Customer_Behavior_Analytics_Report.pdf
-│
-├── screenshots/
-│
-└── README.md
-
-```
-
----
 
 ## Key Insights
 
