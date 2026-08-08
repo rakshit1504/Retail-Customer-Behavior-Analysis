@@ -16,6 +16,13 @@ This project demonstrates a complete analytics pipeline by:
 - Building an interactive Power BI dashboard
 - Summarizing findings into meaningful business insights
 
+> **Dashboard Preview**
+
+<p align="center">
+  <img src="DASHBOARD PowerBI.jpg" width="900">
+</p>
+
+
 ---
 
 ## Project Architecture
@@ -129,10 +136,18 @@ The Power BI dashboard provides an interactive overview of customer purchasing b
 - Category-wise Sales
 - Interactive Filters (Gender, Season, Subscription Status)
 
-> **Dashboard Preview**
 
+
+> **Jupyter Notebook ss**
 <p align="center">
-  <img src="dashboard/dashboard.png" width="900">
+  <img src="Jupyter Notebook ss.jpg" width="900">
+</p>
+
+
+
+> **PostgreSQL querying**
+<p align="center">
+  <img src="PostresSQL sample ss.jpg" width="900">
 </p>
 
 ---
@@ -182,7 +197,7 @@ Potential improvements include:
 **Rakshit Bansal**
 
 
-GitHub: 
-LinkedIn:
+GitHub: https://github.com/rakshit1504/
+LinkedIn: https://www.linkedin.com/in/rakshit-bansal-924333275/
 
 ---
