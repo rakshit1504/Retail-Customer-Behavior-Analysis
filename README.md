@@ -115,6 +115,19 @@ The project answers the following business questions:
 11. Which locations generate the highest customer revenue?
 12. Which product categories receive the highest customer ratings?
 
+> **Jupyter Notebook ss**
+<p align="center">
+  <img src="Jupyter Notebook ss.jpg" width="900">
+</p>
+
+
+
+> **PostgreSQL querying**
+<p align="center">
+  <img src="PostresSQL sample ss.jpg" width="900">
+</p>
+
+
 ---
 
 ## Dashboard
@@ -135,20 +148,6 @@ The Power BI dashboard provides an interactive overview of customer purchasing b
 - Subscription Status
 - Category-wise Sales
 - Interactive Filters (Gender, Season, Subscription Status)
-
-
-
-> **Jupyter Notebook ss**
-<p align="center">
-  <img src="Jupyter Notebook ss.jpg" width="900">
-</p>
-
-
-
-> **PostgreSQL querying**
-<p align="center">
-  <img src="PostresSQL sample ss.jpg" width="900">
-</p>
 
 ---
 
